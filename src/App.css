@@ -1,0 +1,46 @@
+li{
+  margin: 5px;
+}
+
+.main_container{
+  display: flex;
+  gap: 0px;
+}
+
+.content{
+  width: 100%;
+}
+
+.sidebar{
+  height: 100vh;
+  width: 200px;
+}
+
+form{
+  margin: 10px;
+}
+
+.form{
+  margin: 0px;
+}
+
+.footer{
+  margin-top: 135px;
+}
+
+.post-container{
+  margin: 20px 10px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 25px;
+}
+
+.tags{
+  margin: 1px;
+}
+
+.create_post{
+  width: 80%;
+  margin-top: 5%;
+  margin-left: 10%;
+}
